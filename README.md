@@ -58,14 +58,15 @@ An interactive choose-your-own-adventure game built with **React**, **Vite**, an
 [![Play Now](https://img.shields.io/badge/🎮_PLAY_NOW-FF1493?style=for-the-badge&logoColor=white)](https://madjdakhedimi.github.io/code-castle-game)
 [![View Code](https://img.shields.io/badge/💻_Source_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadjdaKhedimi/code-castle-game)
 
-**Game Features:**
-- 🎯 **Interactive Storytelling** - Multiple paths and endings based on your choices
-- 📊 **Real-time Stats** - Track your Wisdom 🧠, Creativity 🎨, and Skills 💻
-- 🎒 **Inventory System** - Collect magical items like the Silver Key and Golden Algorithm
-- 🏆 **Achievements** - Unlock 5 unique badges (Wise Scholar, Creative Genius, Master Coder, Collector, Explorer)
-- 🧩 **Coding Riddles** - Solve puzzles to progress through the castle
-- 💖 **Beautiful UI** - Smooth animations, vibrant gradients, and responsive design
-- 📱 **Fully Responsive** - Play on desktop, tablet, or mobile
+| Feature | Description |
+|---------|-------------|
+| 🎯 **Interactive Storytelling** | Multiple paths and endings based on your choices |
+| 📊 **Real-time Stats** | Track your Wisdom 🧠, Creativity 🎨, and Skills 💻 |
+| 🎒 **Inventory System** | Collect magical items like the Silver Key and Golden Algorithm |
+| 🏆 **Achievements** | Unlock 5 unique badges (Wise Scholar, Creative Genius, Master Coder, Collector, Explorer) |
+| 🧩 **Coding Riddles** | Solve puzzles to progress through the castle |
+| 💖 **Beautiful UI** | Smooth animations, vibrant gradients, and responsive design |
+| 📱 **Fully Responsive** | Play on desktop, tablet, or mobile |
 
 *Navigate through enchanted libraries, magical gardens, and mysterious chambers to find the legendary Golden Algorithm!* ✨
 
