@@ -137,11 +137,11 @@ An interactive choose-your-own-adventure game built with **React**, **Vite**, an
 
 ---
 
-### ✍️ Random Dev Quote
+## 💭 Dev Quote of the Day
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monika)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 </div>
 
