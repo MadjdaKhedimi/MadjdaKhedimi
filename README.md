@@ -3,7 +3,7 @@
 # 💖 Hi there, I'm Madjda Khedimi ✨
 
 ### 🎓 PhD Student in Information and Communication Engineering
-### 🇩🇿 Based in Algeria | 🌸 Solving Problems Creatively with Code & Design
+### Based in Algeria | 🌸 Solving Problems Creatively with Code & Design
 
 <img src="https://komarev.com/ghpvc/?username=iamnippon&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
 
@@ -22,7 +22,7 @@
 class MadjdaKhedimi:
     def __init__(self):
         self.role = "PhD Student & Future Researcher 🎓"
-        self.location = "Algeria 🇩🇿"
+        self.location = "Algeria"
         self.education = "Information and Communication Engineering"
         self.interests = ["Problem Solving 🧩", "Creative Development 💻", "Design 🎨", "Research 📚"]
         self.current_focus = "Advanced ICT Research & Development ✨"
@@ -45,92 +45,33 @@ me.say_hi()
 
 ---
 
-## 🎮 Play a Game! Choose Your Adventure
+## 🎮 Play My Interactive Game!
 
-<details>
-<summary>🌟 Click here for a mini adventure game! 🌟</summary>
+<div align="center">
 
-### 🏰 Welcome to the Code Castle! 
+### 🏰✨ **Code Castle Adventure** ✨🏰
 
-You're a developer on a quest to find the legendary **Golden Algorithm** 👑
+*Quest for the Golden Algorithm!* 👑
 
-**Scene 1:** You're at the castle entrance. What do you do?
+An interactive choose-your-own-adventure game built with **React**, **Vite**, and **Tailwind CSS**
 
-<details>
-<summary>🚪 Enter through the main door</summary>
+[![Play Now](https://img.shields.io/badge/🎮_PLAY_NOW-FF1493?style=for-the-badge&logoColor=white)](https://madjdakhedimi.github.io/code-castle-game)
+[![View Code](https://img.shields.io/badge/💻_Source_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadjdaKhedimi/code-castle-game)
 
-You walk through the main door and find yourself in a grand library filled with coding books! 📚
+**Game Features:**
+- 🎯 **Interactive Storytelling** - Multiple paths and endings based on your choices
+- 📊 **Real-time Stats** - Track your Wisdom 🧠, Creativity 🎨, and Skills 💻
+- 🎒 **Inventory System** - Collect magical items like the Silver Key and Golden Algorithm
+- 🏆 **Achievements** - Unlock 5 unique badges (Wise Scholar, Creative Genius, Master Coder, Collector, Explorer)
+- 🧩 **Coding Riddles** - Solve puzzles to progress through the castle
+- 💖 **Beautiful UI** - Smooth animations, vibrant gradients, and responsive design
+- 📱 **Fully Responsive** - Play on desktop, tablet, or mobile
 
-**Scene 2:** You see two paths:
+*Navigate through enchanted libraries, magical gardens, and mysterious chambers to find the legendary Golden Algorithm!* ✨
 
-<details>
-<summary>📖 Read the Python book</summary>
+**Built with:** React • Vite • Tailwind CSS • Lucide Icons • JavaScript • Love 💖
 
-Great choice! You learned a powerful spell:
-```python
-def unlock_secret():
-    return "✨ You found a key! ✨"
-```
-You got a **Silver Key** 🔑 Continue your adventure!
-
-</details>
-
-<details>
-<summary>💎 Examine the crystal ball</summary>
-
-The crystal ball shows you a vision of the future! You see yourself mastering **Machine Learning** and **AI**! 🤖✨
-
-You gained **+10 Wisdom** 🧙‍♀️
-
-</details>
-
-</details>
-
-<details>
-<summary>🌺 Take the garden path</summary>
-
-You walk through a beautiful garden full of flowers and find a magical fountain! 🌸⛲
-
-**Scene 2:** The fountain speaks to you:
-
-<details>
-<summary>💧 Drink from the fountain</summary>
-
-The water tastes like **inspiration**! ✨
-
-You gained:
-- 🎨 **Creative Vision**
-- 💡 **Problem-Solving Skills**
-- 🌈 **Design Aesthetics**
-
-You feel ready to tackle any coding challenge! 💪
-
-</details>
-
-<details>
-<summary>🪙 Toss a coin and make a wish</summary>
-
-Your wish comes true! You found the **Golden Algorithm**! 👑
-
-```javascript
-function goldenAlgorithm() {
-    return "🌟 Success! You've mastered the art of elegant code! 🌟";
-}
-```
-
-**🎉 CONGRATULATIONS! You won! 🎉**
-
-</details>
-
-</details>
-
-</details>
-
----
-
-**✨ Thanks for playing! Want to collaborate on real projects? Let's connect! 💖**
-
-</details>
+</div>
 
 ---
 
@@ -140,16 +81,33 @@ function goldenAlgorithm() {
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+### Frameworks & Libraries 🎀
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Database & Tools 🛠️
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Design ✨
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
@@ -166,6 +124,7 @@ function goldenAlgorithm() {
 ## 🔬 Current Research & Projects
 
 - 🎓 **PhD Research**: Information and Communication Engineering
+- 🎮 **Latest Project**: [Code Castle Adventure](https://madjdakhedimi.github.io/code-castle-game) - An interactive React game
 - 💻 **Development Focus**: Building solutions with Python, Kotlin, and Web Technologies
 - 🌐 **Web Development**: Creating responsive and interactive applications
 - 🎨 **Design**: Combining technical skills with creative design using Adobe tools
