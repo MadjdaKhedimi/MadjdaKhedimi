@@ -53,10 +53,6 @@ me.say_hi()
 
 *Quest for the Golden Algorithm!* 👑
 
-<a href="https://madjdakhedimi.github.io/code-castle-game">
-  <img src="https://raw.githubusercontent.com/MadjdaKhedimi/code-castle-game/main/assets/game-demo.gif" alt="Code Castle Adventure Demo" width="600"/>
-</a>
-
 An interactive choose-your-own-adventure game built with **React**, **Vite**, and **Tailwind CSS**
 
 [![Play Now](https://img.shields.io/badge/🎮_PLAY_NOW-FF1493?style=for-the-badge&logoColor=white)](https://madjdakhedimi.github.io/code-castle-game)
