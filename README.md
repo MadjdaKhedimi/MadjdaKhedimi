@@ -112,11 +112,15 @@ An interactive choose-your-own-adventure game built with **React**, **Vite**, an
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnippon&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadjdaKhedimi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadjdaKhedimi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadjdaKhedimi&theme=radical&hide_border=true)
 
 </div>
 
