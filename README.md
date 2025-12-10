@@ -3,7 +3,7 @@
 # 💖 Hi there, I'm Madjda Khedimi ✨
 
 ### 🎓 PhD Student in Information and Communication Engineering
-### Based in Algeria | 🌸 Solving Problems Creatively with Code & Design
+### Based in Tianjin, China | 🌸 Solving Problems Creatively with Code & Design
 
 <img src="https://komarev.com/ghpvc/?username=iamnippon&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
 
