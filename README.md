@@ -112,20 +112,6 @@ An interactive choose-your-own-adventure game built with **React**, **Vite**, an
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadjdaKhedimi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadjdaKhedimi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadjdaKhedimi&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🔬 Current Research & Projects
 
 - 🎓 **PhD Research**: Information and Communication Engineering
