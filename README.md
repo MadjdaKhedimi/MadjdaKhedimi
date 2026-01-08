@@ -45,37 +45,6 @@ me.say_hi()
 
 ---
 
-## 🎮 Play My Interactive Game!
-
-<div align="center">
-
-### 🏰✨ **Code Castle Adventure** ✨🏰
-
-*Quest for the Golden Algorithm!* 👑
-
-An interactive choose-your-own-adventure game built with **React**, **Vite**, and **Tailwind CSS**
-
-[![Play Now](https://img.shields.io/badge/🎮_PLAY_NOW-FF1493?style=for-the-badge&logoColor=white)](https://madjdakhedimi.github.io/code-castle-game)
-[![View Code](https://img.shields.io/badge/💻_Source_Code-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadjdaKhedimi/code-castle-game)
-
-| Feature | Description |
-|---------|-------------|
-| 🎯 **Interactive Storytelling** | Multiple paths and endings based on your choices |
-| 📊 **Real-time Stats** | Track your Wisdom 🧠, Creativity 🎨, and Skills 💻 |
-| 🎒 **Inventory System** | Collect magical items like the Silver Key and Golden Algorithm |
-| 🏆 **Achievements** | Unlock 5 unique badges (Wise Scholar, Creative Genius, Master Coder, Collector, Explorer) |
-| 🧩 **Coding Riddles** | Solve puzzles to progress through the castle |
-| 💖 **Beautiful UI** | Smooth animations, vibrant gradients, and responsive design |
-| 📱 **Fully Responsive** | Play on desktop, tablet, or mobile |
-
-*Navigate through enchanted libraries, magical gardens, and mysterious chambers to find the legendary Golden Algorithm!* ✨
-
-**Built with:** React • Vite • Tailwind CSS • Lucide Icons • JavaScript • Love 💖
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 ### Languages 💝
@@ -115,11 +84,11 @@ An interactive choose-your-own-adventure game built with **React**, **Vite**, an
 ## 🔬 Current Research & Projects
 
 - 🎓 **PhD Research**: Information and Communication Engineering
-- 🎮 **Latest Project**: [Code Castle Adventure](https://madjdakhedimi.github.io/code-castle-game) - An interactive React game
+- 🎮 **Latest Project**: [PhD Survival Game]([https://madjdakhedimi.github.io/code-castle-game](https://github.com/MadjdaKhedimi/PhD-Survival)) - A fun, browser-based endless runner game that simulates the PhD journey with humor and heart!
 - 💻 **Development Focus**: Building solutions with Python, Kotlin, and Web Technologies
 - 🌐 **Web Development**: Creating responsive and interactive applications
 - 🎨 **Design**: Combining technical skills with creative design using Adobe tools
-- 📚 **Learning**: Constantly exploring new technologies and methodologies in ICT
+- 📚 **Learning**: Constantly exploring new technologies and methodologies in IT
 
 ---
 
