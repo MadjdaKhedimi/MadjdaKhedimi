@@ -25,7 +25,7 @@ class MadjdaKhedimi:
         self.location = "Algeria"
         self.education = "Information and Communication Engineering"
         self.interests = ["Problem Solving 🧩", "Creative Development 💻", "Design 🎨", "Research 📚"]
-        self.current_focus = "Advanced ICT Research & Development ✨"
+        self.current_focus = "Advanced AI Research & Development ✨"
         self.aesthetic = "Coding with creativity and passion 💖"
     
     def say_hi(self):
